@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DB</string>
+
+    <string name="user_name">Username</string>
+    <string name="user_phone">PhoneNumber</string>
+    <string name="add_button">ADD DATA</string>
+    <string name="retrieve_button">RETRIEVE DATA</string>
+</resources>
